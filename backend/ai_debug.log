@@ -1,0 +1,19 @@
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+{"id":"gen-1752014350-sg4ObngqRkRB03GtyDGb","provider":"Google AI Studio","model":"google/gemma-3n-e4b-it:free","object":"chat.completion","created":1752014351,"choices":[{"logprobs":null,"finish_reason":"stop","native_finish_reason":"STOP","index":0,"message":{"role":"assistant","content":"Kulüpler sayfasındaki \"Başvur\" butonuna tıklayın.\n","refusal":null,"reasoning":null}}],"usage":{"prompt_tokens":69,"completion_tokens":16,"total_tokens":85}}

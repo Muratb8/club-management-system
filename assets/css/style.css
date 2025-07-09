@@ -1,0 +1,64 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f7f6;
+}
+.sidebar {
+    background-color: #2E49A5;
+    color: white;
+    min-height: 100vh;
+}
+.sidebar a {
+    color: #adb5bd;
+    text-decoration: none;
+    padding: 12px;
+    display: block;
+}
+.sidebar a:hover {
+    background-color: #0E315A;
+    color: white;
+    border-left: 4px solid #0d6efd;
+}
+
+.sidebar.collapsed {
+    width: 0;
+    overflow: hidden;
+}
+.profile-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 4px solid #0d6efd;
+    object-fit: cover;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.search-bar {
+    border: 2px solid #0d6efd;
+    border-radius: 50px;
+    padding: 8px 15px;
+}
+.badge-notify {
+    background-color: red;
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    font-size: 0.8em;
+}
+
+  /* Sağ üstteki ikonlar için stil */
+  .top-icons {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    
+}
+
+.top-icons i {
+    font-size: 1.5rem;
+    margin-left: 20px;
+    cursor: pointer;
+}
