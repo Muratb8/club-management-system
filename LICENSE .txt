@@ -1,0 +1,9 @@
+Copyright © 2025 Murat Büyükyılmaz. All rights reserved.
+
+Bu proje eğitim amaçlıdır. Kodlar yalnızca inceleme ve çalıştırma amacıyla paylaşılmıştır. 
+
+Kodların tamamı veya bir kısmı izinsiz olarak kopyalanamaz, yeniden dağıtılamaz, değiştirilemez ya da başka bir projede kullanılamaz.
+
+Herhangi bir ticari veya açık kaynak projede kullanılması yasaktır.
+
+İzin isteyenler için iletişim: murat-halo@hotmail.com
